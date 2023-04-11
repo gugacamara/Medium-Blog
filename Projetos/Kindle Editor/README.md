@@ -18,7 +18,7 @@
 ## :desktop_computer: Executando o projeto
 * 1 - Crie um ambiente virtual.
 * 2 - Instale as dependências com comando: 'pip install -r requirements.txt'.
-* 3 - Aproveite ;)
+* 3 - Aproveite :sunglasses:
 
 ## :handshake: Colaboradores
 <table>
