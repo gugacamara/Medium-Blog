@@ -5,6 +5,7 @@ App para geração de CPF's randômicos e validação de CPF's matematicamente v
 
 ## :wrench: Tecnologias utilizadas
 * Python.
+* Qt Designer.
 
 ## :file_folder: Dependências
 * Módulo Re.

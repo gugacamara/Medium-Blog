@@ -5,6 +5,7 @@
 
 ## :wrench: Tecnologias utilizadas
 * Python.
+* Qt Designer.
 
 ## :file_folder: Dependências
 * Módulo Os.
