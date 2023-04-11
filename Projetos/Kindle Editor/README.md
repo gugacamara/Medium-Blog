@@ -16,6 +16,10 @@
 * Módulo PyQt5.
 * Módulo Fpdf.
 
+## :warning: Avisos
+* O aparelho usado como referência e testado é o Kindle 10ª geração.
+* O app foi testado apenas no Windows 11 e no Linux Ubuntu 22.10.
+
 ## :desktop_computer: Executando o projeto
 * 1 - Crie um ambiente virtual.
 * 2 - Instale as dependências com comando: 'pip install -r requirements.txt'.
