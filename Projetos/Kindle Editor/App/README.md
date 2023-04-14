@@ -22,7 +22,8 @@
 
 ## :desktop_computer: Executando o app
 * 1 - Faça o download do arquivo .zip.
-* 2 - Extrai.
+* 2 - Extraia no seu PC.
+* 3 - Duplo clique no executável.
 * 3 - Aproveite :sunglasses:
 
 ## :handshake: Colaboradores
