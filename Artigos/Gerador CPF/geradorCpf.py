@@ -1,3 +1,4 @@
+
 import random
 
 class GeradorCpf:
@@ -25,16 +26,21 @@ class GeradorCpf:
     def geradora(self):
         randomico = [random.randint(1, 9) for x in range(9)]
 
-        #encontrando o primeiro digito
+        #encontrando o primeiro digito.
         primeiro_digito = self.encontrando_digito(randomico)
         randomico.append(primeiro_digito)
 
-        #encontrando o segundo digito
+        #encontrando o segundo digito.
         segundo_digito = self.encontrando_digito(randomico)
         randomico.append(segundo_digito)
 
+        #transformando a lista em string.
         cpf = "".join(map(str, randomico))
-        print(self.inserindo_caracteres(cpf))
+        
+        #inserindo os caracteres especiais.
+        cpf = self.inserindo_caracteres(cpf)
+
+        return print(cpf)
 
 app = GeradorCpf()
 app.geradora()
