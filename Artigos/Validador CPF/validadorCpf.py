@@ -63,7 +63,7 @@ class ValidadorCpf:
         #Transformando o cpf_teste em string para comparar com o cpfUser(string).
         cpf_teste_string = "".join(map(str, cpf_teste))
 
-        #Quando for válido mostrar o cpf formatado corrigido, inválido mostra o que o usuário digitou.
+        #Comparando os dois cpf's.
         if cpfUser == cpf_teste_string:
             cpf_formatado = self.inserindo_caracteres(cpf_teste_string)
             return print(f'O CPF {cpf_formatado} é válido!')
