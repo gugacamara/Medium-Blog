@@ -1,6 +1,6 @@
 
 import random
-
+ 
 class GeradorCpf:
     def __init__(self):
         pass
@@ -44,4 +44,5 @@ class GeradorCpf:
 
 app = GeradorCpf()
 app.geradora()
+
 
