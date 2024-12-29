@@ -1,4 +1,4 @@
-<h1 align="center">Blog Medium</h1>
+<h1 align="center">Blog</h1>
 
 ## :memo: Descrição
 Repositório criado para a publicação de códigos úteis e projetos do meu blog.
