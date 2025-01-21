@@ -1,7 +1,7 @@
 <h1 align="center">Blog</h1>
 
 ## :memo: Descrição
-Repositório criado para a publicação de códigos úteis e projetos do meu blog na plataforma Medium.
+Repositório criado para a publicação de códigos úteis e projetos do meu <a href="https://medium.com/@gustavocamara">blog</a> na plataforma Medium.
 ## :wrench: Tecnologias utilizadas
 * Linguagens e Frameworks variados.
 * Desenvolvimento de Projetos(UML).
